@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Flutter+%26+Dart+Developer+%F0%9F%9A%80;Building+mobile+apps+that+matter+%F0%9F%93%B1;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Flutter+%26+Dart+Developer+%F0%9F%9A%80;Building+mobile+apps+that+matter+%F0%9F%93%B1;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,7 +15,7 @@
 ## About Me
 
 ```yaml
-name: Affan SHahzada
+name: Affan Shahzada
 location: Indonesia 🇮🇩
 main_stack: Flutter & Dart
 current_focus: Mobile App Development · Capstone Projects
