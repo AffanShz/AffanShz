@@ -1,5 +1,9 @@
 <div align="center">
 
+# Affan Shahzada
+
+**Flutter & Dart Developer · Mobile App Builder · Indonesia**
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Affan!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20Learner%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
@@ -13,6 +17,8 @@
 ---
 
 ## About Me
+
+Hi, I'm **Affan Shahzada**, a mobile app developer from Indonesia focused on **Flutter & Dart**. I build cross-platform mobile applications and enjoy working on capstone projects. I also work with TypeScript, PHP, Python, and HTML.
 
 ```yaml
 name: Affan Shahzada
