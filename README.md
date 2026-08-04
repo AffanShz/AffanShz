@@ -2,54 +2,64 @@
 
 # Affan Shahzada
 
-**Flutter & Dart Developer · Mobile App Builder · Indonesia**
+**Flutter & Mobile Developer · Cross-Platform & Web Builder · Indonesia 🇮🇩**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Affan!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20Learner%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Affan!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Mobile%20App%20Developer%20%7C%20Cross-Platform%20%7C%20Web%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Flutter+%26+Dart+Developer+%F0%9F%9A%80;Building+mobile+apps+that+matter+%F0%9F%93%B1;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Flutter+%26+Dart+Developer+%F0%9F%9A%80;Building+Mobile%2C+Desktop+%26+Web+Apps+%F0%9F%92%BB;Always+learning%2C+always+building+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-Hi, I'm **Affan Shahzada**, a mobile app developer from Indonesia focused on **Flutter & Dart**. I build cross-platform mobile applications and enjoy working on capstone projects. I also work with TypeScript, PHP, Python, and HTML.
+Hi! I'm **Affan Shahzada**, a passionate developer from Indonesia specializing in **Flutter & Dart** for cross-platform mobile app development. I also build modern web applications using **Astro** & **TypeScript**, desktop apps with **Tauri** & **Electron**, backend projects in **PHP**, and data mining tools with **Python**.
 
 ```yaml
 name: Affan Shahzada
 location: Indonesia 🇮🇩
-main_stack: Flutter & Dart
-current_focus: Mobile App Development · Capstone Projects
-also_works_with: TypeScript, PHP, Python, HTML
-fun_fact: I turn coffee ☕ into mobile apps 📱
+primary_stack: Flutter & Dart
+cross_platform: Tauri · Electron
+web_stack: Astro · TypeScript · PHP · HTML5/CSS3
+data_and_ai: Python · Local LLM Integration
+fun_fact: Turning ideas into sleek mobile & desktop apps 📱💻
 ```
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### Frameworks & Libraries
+### Mobile & Cross-Platform
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### Tools & Platforms
+### Web & Backend Development
+
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Data Science & AI
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Data Mining](https://img.shields.io/badge/Data_Mining-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![LLM](https://img.shields.io/badge/Local_LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Tools & Infrastructure
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -60,7 +70,21 @@ fun_fact: I turn coffee ☕ into mobile apps 📱
 
 ---
 
-## GitHub Stats
+## 🚀 Featured Projects
+
+| Project                                                                                                                                            | Description                                                          | Tech Stack                      |
+| :------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------- | :------------------------------ |
+| 🌾 **[Petani Maju V.2](https://github.com/AffanShz/Petani-Maju-V.2)**                                                                              | Mobile application supporting farmers with modern agricultural tools | `Flutter` `Dart`                |
+| 🌐 **[AgriNova Landing Page](https://github.com/AffanShz/AgriNova-Landing-page)**                                                                  | High-performance landing page for AgriNova ecosystem                 | `Astro` `TypeScript`            |
+| 💼 **[Dinus Career Center Mobile](https://github.com/AffanShz/Dinus-Career-Center-Mobile)**                                                        | Mobile portal for university career center                           | `Flutter` `Dart`                |
+| 💻 **[Mahasiswa App Tauri](https://github.com/AffanShz/mahasiswa-app-tauri)** & **[Electron](https://github.com/AffanShz/mahasiswa-app-electron)** | Cross-platform desktop apps for student management                   | `Tauri` `Electron` `TypeScript` |
+| 🤖 **[Local-LLM](https://github.com/AffanShz/Local-LLM)**                                                                                          | On-device / Local LLM integration project                            | `Dart` `Flutter`                |
+| 📊 **[Dashboard Data Mining](https://github.com/AffanShz/Dashboard-Data-Mining)**                                                                  | Interactive data analytics & mining dashboard                        | `Python`                        |
+| 🌐 **[MyPort](https://github.com/AffanShz/myport)**                                                                                                | Personal developer portfolio site                                    | `Astro`                         |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -77,7 +101,7 @@ fun_fact: I turn coffee ☕ into mobile apps 📱
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -91,7 +115,7 @@ fun_fact: I turn coffee ☕ into mobile apps 📱
 
 ---
 
-## Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -101,7 +125,7 @@ fun_fact: I turn coffee ☕ into mobile apps 📱
 
 ---
 
-## Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
